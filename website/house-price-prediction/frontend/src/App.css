@@ -1,0 +1,13 @@
+/* Ini adalah file CSS utama yang tugasnya hanya mengimpor semua 
+base styles, component styles, dan utility classes dari Tailwind CSS.
+Tanpa tiga baris ini, utility classes di App.jsx tidak akan berfungsi.
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Anda bisa menambahkan global custom CSS di bawah ini jika diperlukan, 
+tetapi disarankan untuk menggunakan utility classes Tailwind di App.jsx
+sebanyak mungkin.
+*/

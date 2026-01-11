@@ -1,0 +1,38 @@
+/* ===================== RESET & BASE ===================== */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Jangan sok-sokan dark mode kalau belum siap */
+:root {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont,
+               "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light;
+}
+
+/* Body harus NETRAL */
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #f9fafb; /* sama dengan bg-gray-50 */
+}
+
+/* Hindari styling default aneh dari browser */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* Link */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Button reset minimal */
+button {
+  font-family: inherit;
+}
