@@ -1,0 +1,216 @@
+{
+  "sumatera": {
+    "label": "Sumatera",
+    "provinsi": {
+      "aceh": {
+        "label": "Aceh",
+        "kota": [
+          { "value": "banda_aceh", "label": "Banda Aceh" },
+          { "value": "lhokseumawe", "label": "Lhokseumawe" },
+          { "value": "meulaboh", "label": "Meulaboh" }
+        ]
+      },
+      "sumatera_utara": {
+        "label": "Sumatera Utara",
+        "kota": [
+          { "value": "medan", "label": "Medan" },
+          { "value": "binjai", "label": "Binjai" },
+          { "value": "pematangsiantar", "label": "Pematang Siantar" }
+        ]
+      },
+      "sumatera_barat": {
+        "label": "Sumatera Barat",
+        "kota": [
+          { "value": "padang", "label": "Padang" },
+          { "value": "bukittinggi", "label": "Bukittinggi" },
+          { "value": "payakumbuh", "label": "Payakumbuh" }
+        ]
+      },
+      "riau": {
+        "label": "Riau",
+        "kota": [
+          { "value": "pekanbaru", "label": "Pekanbaru" },
+          { "value": "dumai", "label": "Dumai" }
+        ]
+      }
+    }
+  },
+  "jawa": {
+    "label": "Jawa",
+    "provinsi": {
+      "dki_jakarta": {
+        "label": "DKI Jakarta",
+        "kota": [
+          { "value": "jakarta_pusat", "label": "Jakarta Pusat" },
+          { "value": "jakarta_timur", "label": "Jakarta Timur" },
+          { "value": "jakarta_utara", "label": "Jakarta Utara" },
+          { "value": "jakarta_barat", "label": "Jakarta Barat" },
+          { "value": "jakarta_selatan", "label": "Jakarta Selatan" }
+        ]
+      },
+      "jawa_barat": {
+        "label": "Jawa Barat",
+        "kota": [
+          { "value": "bandung", "label": "Bandung" },
+          { "value": "bogor", "label": "Bogor" },
+          { "value": "depok", "label": "Depok" },
+          { "value": "bekasi", "label": "Bekasi" },
+          { "value": "cirebon", "label": "Cirebon" }
+        ]
+      },
+      "jawa_tengah": {
+        "label": "Jawa Tengah",
+        "kota": [
+          { "value": "semarang", "label": "Semarang" },
+          { "value": "solo", "label": "Solo" },
+          { "value": "magelang", "label": "Magelang" },
+          { "value": "purwokerto", "label": "Purwokerto" }
+        ]
+      },
+      "jawa_timur": {
+        "label": "Jawa Timur",
+        "kota": [
+          { "value": "surabaya", "label": "Surabaya" },
+          { "value": "malang", "label": "Malang" },
+          { "value": "kediri", "label": "Kediri" },
+          { "value": "blitar", "label": "Blitar" }
+        ]
+      },
+      "di_yogyakarta": {
+        "label": "DI Yogyakarta",
+        "kota": [
+          { "value": "ngaglik_sleman", "label": "Ngaglik, Sleman" },
+          { "value": "jombor_sleman", "label": "Jombor, Sleman" },
+          { "value": "berbah_sleman", "label": "Berbah, Sleman" },
+          { "value": "prambanan_sleman", "label": "Prambanan, Sleman" },
+          { "value": "moyudan_sleman", "label": "Moyudan, Sleman" },
+          { "value": "depok_sleman", "label": "Depok, Sleman" },
+          { "value": "gamping_sleman", "label": "Gamping, Sleman" },
+          { "value": "kaliurang_yogyakarta", "label": "Kaliurang, Yogyakarta" },
+          { "value": "sedayu_bantul", "label": "Sedayu, Bantul" },
+          { "value": "ngemplak_sleman", "label": "Ngemplak, Sleman" },
+          { "value": "piyungan_bantul", "label": "Piyungan, Bantul" },
+          { "value": "umbulharjo_yogyakarta", "label": "Umbulharjo, Yogyakarta" },
+          { "value": "godean_sleman", "label": "Godean, Sleman" },
+          { "value": "mlati_sleman", "label": "Mlati, Sleman" },
+          { "value": "condongcatur_sleman", "label": "Condong Catur, Sleman" },
+          { "value": "kasihan_bantul", "label": "Kasihan, Bantul" },
+          { "value": "bantul_bantul", "label": "Bantul, Bantul" },
+          { "value": "sleman_sleman", "label": "Sleman, Sleman" },
+          { "value": "sewon_bantul", "label": "Sewon, Bantul" },
+          { "value": "kalasan_sleman", "label": "Kalasan, Sleman" },
+          { "value": "plered_bantul", "label": "Plered, Bantul" },
+          { "value": "sleman_yogyakarta", "label": "Sleman, Yogyakarta" },
+          { "value": "maguwoharjo_yogyakarta", "label": "Maguwoharjo, Yogyakarta" },
+          { "value": "demangan_yogyakarta", "label": "Demangan, Yogyakarta" },
+          { "value": "purwomartani_sleman", "label": "Purwomartani, Sleman" },
+          { "value": "minggir_sleman", "label": "Minggir, Sleman" },
+          { "value": "gondokusuman_yogyakarta", "label": "Gondokusuman, Yogyakarta" },
+          { "value": "kotagede_yogyakarta", "label": "Kotagede, Yogyakarta" },
+          { "value": "turi_sleman", "label": "Turi, Sleman" },
+          { "value": "kaliurang_sleman", "label": "Kaliurang, Sleman" },
+          { "value": "pogung_yogyakarta", "label": "Pogung, Yogyakarta" },
+          { "value": "mantrijeron_yogyakarta", "label": "Mantrijeron, Yogyakarta" },
+          { "value": "cebongan_sleman", "label": "Cebongan, Sleman" },
+          { "value": "pakualaman_yogyakarta", "label": "Pakualaman, Yogyakarta" },
+          { "value": "bantul_yogyakarta", "label": "Bantul, Yogyakarta" },
+          { "value": "sayegan_sleman", "label": "Sayegan, Sleman" },
+          { "value": "danurejan_yogyakarta", "label": "Danurejan, Yogyakarta" },
+          { "value": "wirobrajan_yogyakarta", "label": "Wirobrajan, Yogyakarta" },
+          { "value": "banguntapan_bantul", "label": "Banguntapan, Bantul" },
+          { "value": "seturan_yogyakarta", "label": "Seturan, Yogyakarta" },
+          { "value": "pakem_sleman", "label": "Pakem, Sleman" },
+          { "value": "caturtunggal_sleman", "label": "Caturtunggal, Sleman" },
+          { "value": "tegalrejo_yogyakarta", "label": "Tegalrejo, Yogyakarta" },
+          { "value": "wonosari_gunungkidul", "label": "Wonosari, Gunung Kidul" },
+          { "value": "jetis_bantul", "label": "Jetis, Bantul" },
+          { "value": "pajangan_bantul", "label": "Pajangan, Bantul" },
+          { "value": "kraton_yogyakarta", "label": "Kraton, Yogyakarta" },
+          { "value": "imogiri_bantul", "label": "Imogiri, Bantul" },
+          { "value": "kulonprogo_kulonprogo", "label": "Kulonprogo, Kulon Progo" }
+        ]
+      }
+    }
+  },
+  "kalimantan": {
+    "label": "Kalimantan",
+    "provinsi": {
+      "kalimantan_timur": {
+        "label": "Kalimantan Timur",
+        "kota": [
+          { "value": "samarinda", "label": "Samarinda" },
+          { "value": "balikpapan", "label": "Balikpapan" },
+          { "value": "bontang", "label": "Bontang" }
+        ]
+      },
+      "kalimantan_barat": {
+        "label": "Kalimantan Barat",
+        "kota": [
+          { "value": "pontianak", "label": "Pontianak" },
+          { "value": "singkawang", "label": "Singkawang" }
+        ]
+      }
+    }
+  },
+  "sulawesi": {
+    "label": "Sulawesi",
+    "provinsi": {
+      "sulawesi_selatan": {
+        "label": "Sulawesi Selatan",
+        "kota": [
+          { "value": "makassar", "label": "Makassar" },
+          { "value": "parepare", "label": "Parepare" },
+          { "value": "palopo", "label": "Palopo" }
+        ]
+      },
+      "sulawesi_utara": {
+        "label": "Sulawesi Utara",
+        "kota": [
+          { "value": "manado", "label": "Manado" },
+          { "value": "bitung", "label": "Bitung" },
+          { "value": "tomohon", "label": "Tomohon" }
+        ]
+      }
+    }
+  },
+  "bali_nusa": {
+    "label": "Bali dan Nusa Tenggara",
+    "provinsi": {
+      "bali": {
+        "label": "Bali",
+        "kota": [
+          { "value": "denpasar", "label": "Denpasar" },
+          { "value": "gianyar", "label": "Gianyar" },
+          { "value": "tabanan", "label": "Tabanan" }
+        ]
+      },
+      "nusa_tenggara_barat": {
+        "label": "Nusa Tenggara Barat",
+        "kota": [
+          { "value": "mataram", "label": "Mataram" },
+          { "value": "bima", "label": "Bima" }
+        ]
+      }
+    }
+  },
+  "papua": {
+    "label": "Papua",
+    "provinsi": {
+      "papua": {
+        "label": "Papua",
+        "kota": [
+          { "value": "jayapura", "label": "Jayapura" },
+          { "value": "nabire", "label": "Nabire" },
+          { "value": "wamena", "label": "Wamena" }
+        ]
+      },
+      "papua_barat": {
+        "label": "Papua Barat",
+        "kota": [
+          { "value": "manokwari", "label": "Manokwari" },
+          { "value": "sorong", "label": "Sorong" }
+        ]
+      }
+    }
+  }
+}
